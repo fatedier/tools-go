@@ -1,0 +1,15 @@
+{
+	"ImportPath": "github.com/fatedier/tools-go",
+	"GoVersion": "go1.6",
+	"GodepVersion": "v74",
+	"Packages": [
+		"./..."
+	],
+	"Deps": [
+		{
+			"ImportPath": "github.com/fatedier/frp/src/utils/conn",
+			"Comment": "v0.8.1-25-g77f207d",
+			"Rev": "77f207d69a83efa36363ba527b7b14a09b6588b2"
+		}
+	]
+}
